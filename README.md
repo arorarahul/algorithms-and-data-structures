@@ -1,5 +1,5 @@
-# basic-algorithms-and-data-structures
-Basic algorithms coded and explained in python
+# Algorithms-and-data-structures
+Algorithms coded and explained in python
 
 # Algorithm1: Karatsuba multiplication
 
