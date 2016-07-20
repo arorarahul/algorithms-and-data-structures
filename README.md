@@ -9,3 +9,11 @@ Algorithms coded and explained in python
 
 *coming soon*
 
+# Algorithm2: Merge Sort Algorithm
+
+## File: [karatsuba.py](https://github.com/arorarahul/basic-algorithms-and-data-structures/blob/master/merge_sort.py)
+
+### Explanation:
+
+*coming soon*
+
