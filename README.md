@@ -11,7 +11,7 @@ Algorithms coded and explained in python
 
 # Algorithm2: Merge Sort Algorithm
 
-## File: [karatsuba.py](https://github.com/arorarahul/basic-algorithms-and-data-structures/blob/master/merge_sort.py)
+## File: [merge_sort.py](https://github.com/arorarahul/basic-algorithms-and-data-structures/blob/master/merge_sort.py)
 
 ### Explanation:
 
